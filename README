@@ -1,4 +1,4 @@
 To use this plugin simply include the CSS file (batch-css.css). You may need to modify the path to the png img file inside of batch.css depending on how you upload things. I left each CSS name in a specific format to allow you to easily re-name and copy and paste anything you might need for your project. I tried to come up with a naming convention but wanted to get this out quick for fast use of these icons with twitter bootstrap so you're on your own to name things as you see fit.
 
-The naming convention work with a rowxcolumn manner. So branch-icon-2x1 will print out the first column on the second row in the image. Open img/web-icons and you can quickly see what class you need to use for a specific icon.
+The naming convention work with a rowXcolumn manner (use chrome dev tools - if you can't... this is a good starting point!). So branch-icon-2x1 will print out the first column on the second row in the image. Open img/web-icons.png and you can quickly see what class you need to use for a specific icon.
 
